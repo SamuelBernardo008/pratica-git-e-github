@@ -18,4 +18,7 @@ OU
 git add .
 ```
 
-Mais um commit
+3. Fazendo o commit
+
+```bash
+git commit -m "Estou com sono"
