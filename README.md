@@ -15,7 +15,7 @@ git add <arquivo1> <arquivo2> ... <arquivonN>
 OU
 
 ```bash
-git add .
+git add . 
 ```
 
 Mais um commit
